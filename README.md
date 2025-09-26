@@ -1,4 +1,8 @@
-# Projeto Barbearia disciplina Informática e negócios barbershop1
+# Projeto Barbearia disciplina Informática e negócios
+
+Projeto site barbershop (Our Studio_Wt)
+CNPJ:50108193000177 - W barbershop
+
 Disciplinas: Informática e Negócios - Prof.PhD. Bruno Zolotareff dos Santos; Comunicação e Expressão: Professora Andreza Maria de Souza Rocha; Administração Geral Prof. Jairo Gonçalves Duarte - Fatec Mauá 
 
 URL projeto:
