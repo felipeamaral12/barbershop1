@@ -1,4 +1,5 @@
-# Projeto Barbearia disciplina Informática e negócios
+# Projeto Informática e negócios 
+Barbearia
 
 Projeto site barbershop (Our Studio_Wt)
 CNPJ:50108193000177 - W barbershop
@@ -8,7 +9,7 @@ Disciplinas: Informática e Negócios - Prof.PhD. Bruno Zolotareff dos Santos; C
 URL projeto:
 https://github.com/felipeamaral12/barbershop1.git
 
-URL site:
+URL site:https://felipeamaral12.github.io/barbershop1/
 
 
 Integrantes:
