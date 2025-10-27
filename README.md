@@ -1,4 +1,4 @@
-# Projeto Informática e negócios 
+Projeto Informática e negócios 
 Barbearia
 
 Projeto site barbershop (Our Studio_Wt)
